@@ -1,0 +1,5 @@
+Bibtex formaat:
+https://latex.ugent.be/files/documenten/bibtex.pdf
+
+APA Stijl:
+http://www.cws.illinois.edu/workshop/writers/citation/apa/
