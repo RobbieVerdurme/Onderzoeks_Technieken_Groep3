@@ -12,7 +12,7 @@ S =  study, T = test
 Er wordt gekeken wat er gebeurd als er af en toe een test wordt geven 
 en wat het effect is op het onthouden van de materie. Maar er wordt ook verder gekeken.
 Zo kijken ze ook of het al dan niet belangrijk is om een goed resultaat te halen, in de tekst spreken ze over no/low/high stakes.
-Tevens kijken ze ook naar de soort testen die worden gedaan zoals bijvoorbeeld, 'multiple choice', met of zonder feedback, etc.
+Tevens kijken ze ook naar de soort testen die worden gedaan zoals bijvoorbeeld, 'multiple choice', open vragen en of het al dan niet met of zonder feedback is, etc.
 Er wordt ook getest of het een verschil is in welke omgeving je zit, een klas? of een labo? 
 
 
