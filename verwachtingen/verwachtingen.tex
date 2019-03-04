@@ -1,1 +1,107 @@
+%==============================================================================
+% Voorbeeld gebruik documentklasse hogent-article
+%==============================================================================
+%
+% Compileren in TeXstudio:
+%
+% - Zorg dat Biber de bibliografie compileert (en niet Biblatex)
+%   Options > Configure > Build > Default Bibliography Tool: "txs:///biber"
+% - F5 om te compileren en het resultaat te bekijken.
+% - Als de bibliografie niet zichtbaar is, probeer dan F5 - F8 - F5
+%   Met F8 compileer je de bibliografie apart.
+%
+% Als je JabRef gebruikt voor het bijhouden van de bibliografie, zorg dan
+% dat je in ``biblatex''-modus opslaat: File > Switch to BibLaTeX mode.
 
+\documentclass{hogent-article}
+
+%------------------------------------------------------------------------------
+% Metadata over het artikel
+%------------------------------------------------------------------------------
+
+%---------- Titel & auteur ----------------------------------------------------
+
+% TODO: geef werktitel van je eigen voorstel op
+\PaperTitle{Titel van het artikel}
+% TODO: geef op welk soort artikel dit is
+% Dit is typisch de opdracht en het vak waarvoor dit artikel geschreven is, bv.
+% ``Verslag onderzoeksproject Onderzoekstechnieken 2018-2019''
+\PaperType{Type artikel}
+
+% TODO: vul je eigen naam in als auteur, geef ook je emailadres mee!
+\Authors{Olivier Troch\textsuperscript{1}, Daan Van Vooren \textsuperscript{2}, Robbie Verdurme\textsuperscript{3}, Sebastien Wojtyla\textsuperscript{4}} % Authors
+
+% TODO: vul de naam van je co-promotor in.
+% Als het hier gaat om een voorstel voor de bachelorproef, dan ben je hier
+% verplicht de naam van je co-promotor in te vullen. Zoniet, dan kan je het
+% leeg laten.
+\CoPromotor{}
+
+% Contactinfo: Geef hier de contactgegevens van elke auteur van het artikel
+\affiliation{
+	\textsuperscript{1} \href{mailto:Olivier.troch.w2257@student.hogent.be}{Olivier.troch.w2257@student.hogent.be}
+}
+\affiliation{
+	\textsuperscript{2} \href{mailto:daan.vanvooren.y1502@student.hogent.be}{daan.vanvooren.y1502@student.hogent.be}
+}
+\affiliation{
+	\textsuperscript{3}
+	\href{mailto:robbie.verdurme.y9234@student.hogent.be}{robbie.verdurme.y9234@student.hogent.be}
+}
+\affiliation{
+	\textsuperscript{4}
+	\href{mailto;sebastien.wojtyla.y3274@student.hogent.be}{sebastien.wojtyla.y3274@student.hogent.be}
+}
+
+%---------- Abstract/Samenvatting ----------------------------------------------------------
+\Abstract{Hier schrijf je de samenvatting van je artikel, als een doorlopende tekst van één paragraaf. Wat hier zeker in moet vermeld worden: \textbf{Context} (Waarom is dit werk belangrijk?); \textbf{Nood} (Waarom moet dit onderzocht worden?); \textbf{Taak} (Wat ga je (ongeveer) doen?); \textbf{Object} (Wat staat in dit document geschreven?); \textbf{Resultaat} (Wat verwacht je van je onderzoek?); \textbf{Conclusie} (Wat verwacht je van van de conclusies?); \textbf{Perspectief} (Wat zegt de toekomst voor dit werk?).
+	
+	Bij de sleutelwoorden geef je het onderzoeksdomein, samen met andere sleutelwoorden die je werk beschrijven.
+}
+
+%---------- Onderzoeksdomein en sleutelwoorden --------------------------------
+% TODO: Vul de sleutelwoorden aan.
+\Keywords{Onderzoeksproces, Leerstrategieën, Retrieval Practice}
+\newcommand{\keywordname}{Sleutelwoorden} % Defines the keywords heading name
+
+%---------- Titel, inhoud -----------------------------------------------------
+\begin{document}
+	
+	\flushbottom % Makes all text pages the same height
+	\maketitle % Print the title and abstract box
+	\tableofcontents % Print the contents section
+	\thispagestyle{empty} % Removes page numbering from the first page
+	
+	%------------------------------------------------------------------------------
+	% Hoofdtekst
+	%------------------------------------------------------------------------------
+	
+	\section{Inleiding}
+	
+	
+	\section{Literatuurstudie}
+	
+	% Refereren naar de literatuur kan met:
+	% \autocite{BIBTEXKEY} -> (Auteur, jaartal)
+	% \textcite{BIBTEXKEY} -> Auteur (jaartal)
+	Voorbeeld van een referentie~\autocite{Moore2002}
+	
+	\section{Bibliografie}
+	
+	\section{Variablen}
+	
+	\section{Mockgrafieken}
+	
+	
+	%------------------------------------------------------------------------------
+	% Referentielijst
+	%------------------------------------------------------------------------------
+	% TODO: de gerefereerde werken moeten in BibTeX-bestand ``bibliografie.bib''
+	% voorkomen. Gebruik JabRef om je bibliografie bij te houden en vergeet niet
+	% om compatibiliteit met Biber/BibLaTeX aan te zetten (File > Switch to
+	% BibLaTeX mode)
+	
+	\phantomsection
+	\printbibliography[heading=bibintoc]
+	
+\end{document}

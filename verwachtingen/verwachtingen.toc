@@ -1,0 +1,15 @@
+\contentsfinish 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {dutch}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Inleiding}{1}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Overzicht literatuur}{1}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Methodologie}{1}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Experimenten}{1}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Analyse resultaten}{1}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Conclusie}{1}{section.6}
