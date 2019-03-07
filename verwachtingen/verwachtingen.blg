@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'verwachtingen.blg'
+[33] biber-MSWIN64:313> INFO - === 
+[58] Biber.pm:371> INFO - Reading 'verwachtingen.bcf'
+[149] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[164] Biber.pm:3976> INFO - Processing section 0
+[185] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliografie.bib' for section 0
+[190] bibtex.pm:1490> INFO - LaTeX decoding ...
+[207] bibtex.pm:1306> INFO - Found BibTeX data source 'bibliografie.bib'
+[235] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[236] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[236] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[236] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
+[239] bbl.pm:617> INFO - Writing 'verwachtingen.bbl' with encoding 'UTF-8'
+[241] bbl.pm:720> INFO - Output to verwachtingen.bbl

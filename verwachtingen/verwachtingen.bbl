@@ -1,0 +1,64 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{karpicke2008critical}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
+           family={Karpicke},
+           familyi={K\bibinitperiod},
+           given={Jeffrey\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=64f1e117baf1e72516c227e2ff11c009}{%
+           family={Roediger},
+           familyi={R\bibinitperiod},
+           given={Henry\bibnamedelima L},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{fullhash}{9333d69361938cc7d859147db2322a7e}
+      \strng{bibnamehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{authorbibnamehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{authornamehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{authorfullhash}{9333d69361938cc7d859147db2322a7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{science}
+      \field{number}{5865}
+      \field{title}{The critical importance of retrieval for learning}
+      \field{volume}{319}
+      \field{year}{2008}
+      \field{pages}{966\bibrangedash 968}
+      \range{pages}{3}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
