@@ -19,6 +19,115 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{brame2015test}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=0edfb457fe02e3d95fc5cc69fb664b51}{%
+           family={Brame},
+           familyi={B\bibinitperiod},
+           given={Cynthia\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5fe604053a0c9c69f3184134574c107d}{%
+           family={Biel},
+           familyi={B\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Cell Biol}%
+      }
+      \strng{namehash}{8117afdebc614b802fcd4179a20ea4d9}
+      \strng{fullhash}{8117afdebc614b802fcd4179a20ea4d9}
+      \strng{bibnamehash}{8117afdebc614b802fcd4179a20ea4d9}
+      \strng{authorbibnamehash}{8117afdebc614b802fcd4179a20ea4d9}
+      \strng{authornamehash}{8117afdebc614b802fcd4179a20ea4d9}
+      \strng{authorfullhash}{8117afdebc614b802fcd4179a20ea4d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CBE—Life Sciences Education}
+      \field{number}{2}
+      \field{title}{Test-enhanced learning: the potential for testing to promote greater learning in undergraduate science courses}
+      \field{volume}{14}
+      \field{year}{2015}
+      \field{pages}{es4}
+      \range{pages}{-1}
+    \endentry
+    \entry{karpicke2009metacognitive}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
+           family={Karpicke},
+           familyi={K\bibinitperiod},
+           given={Jeffrey\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{fullhash}{87e4e88d1734f947a2151a8161760904}
+      \strng{bibnamehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{authorbibnamehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{authornamehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{authorfullhash}{87e4e88d1734f947a2151a8161760904}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{number}{4}
+      \field{title}{Metacognitive control and strategy selection: Deciding to practice retrieval during learning.}
+      \field{volume}{138}
+      \field{year}{2009}
+      \field{pages}{469}
+      \range{pages}{1}
+    \endentry
+    \entry{karpicke2007repeated}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
+           family={Karpicke},
+           familyi={K\bibinitperiod},
+           given={Jeffrey\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2e6571efdb73540971c76506e0dcdb4}{%
+           family={Roediger\bibnamedelima III},
+           familyi={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Henry\bibnamedelima L},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{fullhash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{bibnamehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{authorbibnamehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{authornamehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{authorfullhash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{number}{2}
+      \field{title}{Repeated retrieval during learning is the key to long-term retention}
+      \field{volume}{57}
+      \field{year}{2007}
+      \field{pages}{151\bibrangedash 162}
+      \range{pages}{12}
+    \endentry
     \entry{karpicke2008critical}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
@@ -47,7 +156,6 @@
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{science}

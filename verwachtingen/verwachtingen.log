@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.14)  7 MAR 2019 22:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.14)  8 MAR 2019 13:50
 entering extended mode
 **./verwachtingen.tex
 (verwachtingen.tex
@@ -1318,6 +1318,13 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 \openout6 = `verwachtingen.toc'.
 
 
+
+LaTeX Warning: Citation 'karpicke2009metacognitive ' on page 1 undefined on inp
+ut line 84.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 84.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{C:/Users/Boeferrob/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
@@ -1326,7 +1333,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 
 AED: lastpage setting LastPage
-<img/HOGENT_Logo_Pos_rgb.png, id=54, 3503.0875pt x 1975.38pt>
+<img/HOGENT_Logo_Pos_rgb.png, id=59, 3503.0875pt x 1975.38pt>
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type png)
 <use img/HOGENT_Logo_Pos_rgb.png>
 Package pdftex.def Info: img/HOGENT_Logo_Pos_rgb.png  used on input line 119.
@@ -1341,26 +1348,36 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `verwachtingen.out' has not changed.
 (rerunfilecheck)             Checksum: C8C0FE9E1B994A5E547E337EF7545911;288.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                verwachtingen
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'verwachtingen.run.xml'.
 \openout1 = `verwachtingen.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
- 19267 strings out of 493303
- 315022 string characters out of 3138844
- 866163 words of memory out of 3000000
- 22397 multiletter control sequences out of 15000+200000
- 73096 words of font info for 179 fonts, out of 3000000 for 9000
+ 19310 strings out of 493303
+ 315764 string characters out of 3138844
+ 867371 words of memory out of 3000000
+ 22412 multiletter control sequences out of 15000+200000
+ 77129 words of font info for 197 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,14n,62p,921b,3825s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on verwachtingen.pdf (2 pages, 151503 bytes).
+es/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on verwachtingen.pdf (2 pages, 168617 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 50742 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 51254 words of extra memory for PDF output out of 51595 (max. 10000000)
 
