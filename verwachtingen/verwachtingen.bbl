@@ -58,6 +58,39 @@
       \field{pages}{es4}
       \range{pages}{-1}
     \endentry
+    \entry{butler2010repeated}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0fa4fb7a04f026c1545476d10cfd5ba7}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{fullhash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{bibnamehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{authorbibnamehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{authornamehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{authorfullhash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{5}
+      \field{title}{Repeated testing produces superior transfer of learning relative to repeated studying.}
+      \field{volume}{36}
+      \field{year}{2010}
+      \field{pages}{1118}
+      \range{pages}{1}
+    \endentry
     \entry{karpicke2009metacognitive}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
@@ -165,6 +198,84 @@
       \field{year}{2008}
       \field{pages}{966\bibrangedash 968}
       \range{pages}{3}
+    \endentry
+    \entry{pyc2012test}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=ce5892c469e07b722260c8d29254aeec}{%
+           family={Pyc},
+           familyi={P\bibinitperiod},
+           given={Mary\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a137b87325be3c5314032895aeadfd19}{%
+           family={Rawson},
+           familyi={R\bibinitperiod},
+           given={Katherine\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{fullhash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{bibnamehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{authorbibnamehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{authornamehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{authorfullhash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{3}
+      \field{title}{Why is test--restudy practice beneficial for memory? An evaluation of the mediator shift hypothesis.}
+      \field{volume}{38}
+      \field{year}{2012}
+      \field{pages}{737}
+      \range{pages}{1}
+    \endentry
+    \entry{taylor2010effects}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=708f66d7281777b91bd3b93220e8a7a9}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Kelli},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=88eeb1c9f6fea38b213cd444bcefd8f2}{%
+           family={Rohrer},
+           familyi={R\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{328f2d02b1d8c13b52cc22fbcba8aa1e}
+      \strng{fullhash}{328f2d02b1d8c13b52cc22fbcba8aa1e}
+      \strng{bibnamehash}{328f2d02b1d8c13b52cc22fbcba8aa1e}
+      \strng{authorbibnamehash}{328f2d02b1d8c13b52cc22fbcba8aa1e}
+      \strng{authornamehash}{328f2d02b1d8c13b52cc22fbcba8aa1e}
+      \strng{authorfullhash}{328f2d02b1d8c13b52cc22fbcba8aa1e}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Cognitive Psychology}
+      \field{number}{6}
+      \field{title}{The effects of interleaved practice}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{pages}{837\bibrangedash 848}
+      \range{pages}{12}
     \endentry
   \enddatalist
 \endrefsection

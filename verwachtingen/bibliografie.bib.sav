@@ -88,4 +88,37 @@
   publisher = {American Psychological Association},
 }
 
+@Article{roediger2011critical,
+  author    = {Roediger III, Henry L and Butler, Andrew C},
+  title     = {The critical role of retrieval practice in long-term retention},
+  journal   = {Trends in cognitive sciences},
+  year      = {2011},
+  volume    = {15},
+  number    = {1},
+  pages     = {20--27},
+  publisher = {Elsevier},
+}
+
+@Article{smith1978environmental,
+  author    = {Smith, Steven M and Glenberg, Arthur and Bjork, Robert A},
+  title     = {Environmental context and human memory},
+  journal   = {Memory \& Cognition},
+  year      = {1978},
+  volume    = {6},
+  number    = {4},
+  pages     = {342--353},
+  publisher = {Springer},
+}
+
+@Article{smith1984contextual,
+  author    = {Smith, Steven M and Rothkopf, Ernst Z},
+  title     = {Contextual enrichment and distribution of practice in the classroom},
+  journal   = {Cognition and Instruction},
+  year      = {1984},
+  volume    = {1},
+  number    = {3},
+  pages     = {341--358},
+  publisher = {Taylor \& Francis},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
