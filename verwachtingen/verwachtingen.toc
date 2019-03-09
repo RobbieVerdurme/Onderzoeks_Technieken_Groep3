@@ -1,15 +1,13 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {dutch}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Inleiding}{1}{section.1}
+\contentsline {section}{\numberline {1}Inleiding}{1}{section.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Literatuurstudie}{1}{section.2}
+\contentsline {section}{\numberline {2}Literatuurstudie}{1}{section.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Variablen}{2}{section.3}
+\contentsline {section}{\numberline {3}Variabelen}{2}{section.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Verwachtingen}{2}{section.4}
+\contentsline {section}{\numberline {4}Verwachtingen}{2}{section.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Mockgrafieken}{2}{section.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Referenties}{2}{section*.1}
+\contentsline {section}{Referenties}{2}{section*.1}% 
 \contentsfinish 
