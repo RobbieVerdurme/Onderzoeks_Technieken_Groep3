@@ -1,0 +1,5 @@
+mijnData <- read.csv(file.choose(),header=TRUE,sep=";",dec=",",fileEncoding="UTF-8-BOM")
+plot(mijnData[,1],mijnData[,4],type="o",lwd=2,col="black",lty=1,xlab="Tijdstip test (min)", ylab="Proportie onthouden leerstof")
+lines(mijnData[,1],mijnData[,3],type="o",lwd=2,col="black",lty=2)
+lines(mijnData[,1],mijnData[,2],type="o",lwd=2,col="black",lty=3)
+legend(3.5, 0.3, legend=c("STST met feedback", "STST met locatiewijziging", "Standaard STST"),col=c("black", "black", "black"), lty=1:2:3, cex=1)
