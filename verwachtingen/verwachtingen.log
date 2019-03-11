@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.14)  10 MAR 2019 23:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.14)  11 MAR 2019 11:08
 entering extended mode
 **./verwachtingen.tex
 (verwachtingen.tex
@@ -1359,10 +1359,10 @@ Package logreq Info: Writing requests to 'verwachtingen.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
  ) 
 Here is how much of TeX's memory you used:
- 19397 strings out of 493303
- 317371 string characters out of 3138844
+ 19396 strings out of 493303
+ 317349 string characters out of 3138844
  868163 words of memory out of 3000000
- 22450 multiletter control sequences out of 15000+200000
+ 22449 multiletter control sequences out of 15000+200000
  76474 words of font info for 223 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,14n,62p,937b,3825s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1370,7 +1370,7 @@ Here is how much of TeX's memory you used:
 KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on verwachtingen.pdf (3 pages, 173900 bytes).
+Output written on verwachtingen.pdf (3 pages, 173902 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
