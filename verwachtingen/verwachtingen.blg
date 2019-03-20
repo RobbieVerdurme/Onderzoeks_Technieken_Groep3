@@ -1,15 +1,15 @@
-[0] Config.pm:304> INFO - This is Biber 2.12
-[0] Config.pm:307> INFO - Logfile is 'verwachtingen.blg'
-[32] biber-MSWIN64:315> INFO - === 
-[59] Biber.pm:371> INFO - Reading 'verwachtingen.bcf'
-[160] Biber.pm:889> INFO - Found 10 citekeys in bib section 0
-[174] Biber.pm:4093> INFO - Processing section 0
-[188] Biber.pm:4254> INFO - Looking for bibtex format file 'bibliografie.bib' for section 0
-[192] bibtex.pm:1523> INFO - LaTeX decoding ...
-[212] bibtex.pm:1340> INFO - Found BibTeX data source 'bibliografie.bib'
-[278] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[278] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[278] Biber.pm:3921> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[278] Biber.pm:3927> INFO - No sort tailoring available for locale 'nl-NL'
-[289] bbl.pm:636> INFO - Writing 'verwachtingen.bbl' with encoding 'UTF-8'
-[296] bbl.pm:739> INFO - Output to verwachtingen.bbl
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'verwachtingen.blg'
+[29] biber-MSWIN64:313> INFO - === 
+[52] Biber.pm:371> INFO - Reading 'verwachtingen.bcf'
+[149] Biber.pm:857> INFO - Found 10 citekeys in bib section 0
+[163] Biber.pm:3976> INFO - Processing section 0
+[175] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliografie.bib' for section 0
+[178] bibtex.pm:1490> INFO - LaTeX decoding ...
+[195] bibtex.pm:1306> INFO - Found BibTeX data source 'bibliografie.bib'
+[259] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[259] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[259] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[259] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
+[269] bbl.pm:617> INFO - Writing 'verwachtingen.bbl' with encoding 'UTF-8'
+[277] bbl.pm:720> INFO - Output to verwachtingen.bbl
