@@ -1,4 +1,3 @@
-\contentsfinish 
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {dutch}{}
 \defcounter {refsection}{0}\relax 
@@ -10,6 +9,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Experimenten}{1}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Analyse resultaten}{1}{section.5}
+\contentsline {section}{\numberline {5}Verwactingen}{1}{section.5}
+\contentsfinish 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Conclusie}{1}{section.6}
+\contentsline {section}{\numberline {6}Analyse resultaten}{2}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusie}{2}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Referenties}{2}{section*.1}

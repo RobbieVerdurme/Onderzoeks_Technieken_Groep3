@@ -1,0 +1,206 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{butler2010repeated}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0fa4fb7a04f026c1545476d10cfd5ba7}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{fullhash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{bibnamehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{authorbibnamehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{authornamehash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \strng{authorfullhash}{0fa4fb7a04f026c1545476d10cfd5ba7}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{5}
+      \field{title}{Repeated testing produces superior transfer of learning relative to repeated studying.}
+      \field{volume}{36}
+      \field{year}{2010}
+      \field{pages}{1118}
+      \range{pages}{1}
+    \endentry
+    \entry{karpicke2009metacognitive}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
+           family={Karpicke},
+           familyi={K\bibinitperiod},
+           given={Jeffrey\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{fullhash}{87e4e88d1734f947a2151a8161760904}
+      \strng{bibnamehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{authorbibnamehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{authornamehash}{87e4e88d1734f947a2151a8161760904}
+      \strng{authorfullhash}{87e4e88d1734f947a2151a8161760904}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{number}{4}
+      \field{title}{Metacognitive control and strategy selection: Deciding to practice retrieval during learning.}
+      \field{volume}{138}
+      \field{year}{2009}
+      \field{pages}{469}
+      \range{pages}{1}
+    \endentry
+    \entry{karpicke2007repeated}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
+           family={Karpicke},
+           familyi={K\bibinitperiod},
+           given={Jeffrey\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2e6571efdb73540971c76506e0dcdb4}{%
+           family={Roediger\bibnamedelima III},
+           familyi={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Henry\bibnamedelima L},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{fullhash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{bibnamehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{authorbibnamehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{authornamehash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \strng{authorfullhash}{b6dcab1e92de59b7f0ec589a243ce23b}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{number}{2}
+      \field{title}{Repeated retrieval during learning is the key to long-term retention}
+      \field{volume}{57}
+      \field{year}{2007}
+      \field{pages}{151\bibrangedash 162}
+      \range{pages}{12}
+    \endentry
+    \entry{karpicke2008critical}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=87e4e88d1734f947a2151a8161760904}{%
+           family={Karpicke},
+           familyi={K\bibinitperiod},
+           given={Jeffrey\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=64f1e117baf1e72516c227e2ff11c009}{%
+           family={Roediger},
+           familyi={R\bibinitperiod},
+           given={Henry\bibnamedelima L},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{fullhash}{9333d69361938cc7d859147db2322a7e}
+      \strng{bibnamehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{authorbibnamehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{authornamehash}{9333d69361938cc7d859147db2322a7e}
+      \strng{authorfullhash}{9333d69361938cc7d859147db2322a7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{science}
+      \field{number}{5865}
+      \field{title}{The critical importance of retrieval for learning}
+      \field{volume}{319}
+      \field{year}{2008}
+      \field{pages}{966\bibrangedash 968}
+      \range{pages}{3}
+    \endentry
+    \entry{pyc2012test}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=ce5892c469e07b722260c8d29254aeec}{%
+           family={Pyc},
+           familyi={P\bibinitperiod},
+           given={Mary\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a137b87325be3c5314032895aeadfd19}{%
+           family={Rawson},
+           familyi={R\bibinitperiod},
+           given={Katherine\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{fullhash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{bibnamehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{authorbibnamehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{authornamehash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \strng{authorfullhash}{18bb9f0e9edb4de32bd9eea849cf6b39}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{3}
+      \field{title}{Why is test--restudy practice beneficial for memory? An evaluation of the mediator shift hypothesis.}
+      \field{volume}{38}
+      \field{year}{2012}
+      \field{pages}{737}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+  \missing{ChanEtAl1998}
+\endrefsection
+\endinput
+

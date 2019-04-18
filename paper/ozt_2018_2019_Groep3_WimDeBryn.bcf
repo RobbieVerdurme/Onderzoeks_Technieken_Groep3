@@ -2124,7 +2124,12 @@
     <bcf:datasource type="file" datatype="bibtex">bibliografie.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Moore2002</bcf:citekey>
+    <bcf:citekey order="1">ChanEtAl1998</bcf:citekey>
+    <bcf:citekey order="2">karpicke2009metacognitive</bcf:citekey>
+    <bcf:citekey order="3">butler2010repeated</bcf:citekey>
+    <bcf:citekey order="3">pyc2012test</bcf:citekey>
+    <bcf:citekey order="3">karpicke2007repeated</bcf:citekey>
+    <bcf:citekey order="3">karpicke2008critical</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
