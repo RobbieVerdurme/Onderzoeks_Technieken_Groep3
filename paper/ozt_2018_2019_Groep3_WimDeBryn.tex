@@ -16,6 +16,9 @@
 
 \documentclass{hogent-article}
 
+%images
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
 
 %------------------------------------------------------------------------------
 % Metadata over het artikel
@@ -114,7 +117,31 @@
 	Daarnaast verwachten we dat het beluisteren van muziek een negatief effect zal hebben op het resultaat. Door het beluisteren van muziek kan je sneller afgeleid graken tijdens het lezen van de tekst en deze dan ook minder gemakkelijk onthouden.
 	
 	\section{Analyse resultaten}
+	\subsection{Retrieval Practice}	
+	%met rt en zonder rt vergelijken
+	\includegraphics[width=50px]{Rplot_MetRetrievalPractice}
+	\includegraphics[width=50px]{Rplot_ZonderRetrievalPractice}
 	
+	\subsection{Muziek}
+	%met muziek en zonder muziek vergelijken
+	\includegraphics[width=50px]{Rplot_MetMuziek}	
+	\includegraphics[width=50px]{Rplot_ZonderMuziek}
+		
+	
+	\subsection{Retieval Practice met Muziek}
+	%met rt en muziek vergelijken
+	\includegraphics[width=50px]{Rplot_RetrievalPracticeMuziek_Score1}	
+	\includegraphics[width=50px]{Rplot_RetrievalPracticeMuziek_Score2}
+	
+	
+	
+	%%EXTRA BOXPLOTS
+		%%met en zonder muziek per test
+%		\includegraphics[width=50px]{Rplot_Muziek_Score1}
+%		\includegraphics[width=50px]{Rplot_Muziek_Score2}
+		%% met zonder retrieval practice per test
+%		\includegraphics[width=50px]{Rplot_RetrievalPractice_Score1}
+%		\includegraphics[width=50px]{Rplot_RetrievalPractice_Score2}
 	\section{Conclusie}
 	
 	
@@ -122,7 +149,6 @@
 	%------------------------------------------------------------------------------
 	% Referentielijst
 	%------------------------------------------------------------------------------
-	% TODO: de gerefereerde werken moeten in BibTeX-bestand ``bibliografie.bib''
 	% voorkomen. Gebruik JabRef om je bibliografie bij te houden en vergeet niet
 	% om compatibiliteit met Biber/BibLaTeX aan te zetten (File > Switch to
 	% BibLaTeX mode)

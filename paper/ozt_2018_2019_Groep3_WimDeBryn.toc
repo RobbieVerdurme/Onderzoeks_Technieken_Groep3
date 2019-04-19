@@ -8,11 +8,17 @@
 \contentsline {section}{\numberline {3}Methodologie}{1}{section.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Experimenten}{1}{section.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Verwactingen}{1}{section.5}
 \contentsfinish 
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Verwactingen}{2}{section.5}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6}Analyse resultaten}{2}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Retrieval Practice}{2}{subsection.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Muziek}{2}{subsection.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Retieval Practice met Muziek}{2}{subsection.6.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7}Conclusie}{2}{section.7}
 \defcounter {refsection}{0}\relax 
