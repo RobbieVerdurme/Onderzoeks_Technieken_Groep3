@@ -1,17 +1,5 @@
 [0] Config.pm:302> INFO - This is Biber 2.10
 [0] Config.pm:305> INFO - Logfile is 'ozt_2018_2019_Groep3_WimDeBryn.blg'
-[30] biber-MSWIN64:313> INFO - === 
-[55] Biber.pm:371> INFO - Reading 'ozt_2018_2019_Groep3_WimDeBryn.bcf'
-[146] Biber.pm:857> INFO - Found 6 citekeys in bib section 0
-[160] Biber.pm:3976> INFO - Processing section 0
-[175] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliografie.bib' for section 0
-[179] bibtex.pm:1490> INFO - LaTeX decoding ...
-[198] bibtex.pm:1306> INFO - Found BibTeX data source 'bibliografie.bib'
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'ChanEtAl1998' (section 0)
-[235] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[235] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[235] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[235] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
-[243] bbl.pm:617> INFO - Writing 'ozt_2018_2019_Groep3_WimDeBryn.bbl' with encoding 'UTF-8'
-[247] bbl.pm:720> INFO - Output to ozt_2018_2019_Groep3_WimDeBryn.bbl
-[247] Biber.pm:110> INFO - WARNINGS: 1
+[56] biber-MSWIN64:313> INFO - === 
+[440] Utils.pm:209> ERROR - Cannot find control file 'ozt_2018_2019_Groep3_WimDeBryn.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[440] Biber.pm:114> INFO - ERRORS: 1

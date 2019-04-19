@@ -2130,6 +2130,11 @@
     <bcf:citekey order="3">pyc2012test</bcf:citekey>
     <bcf:citekey order="3">karpicke2007repeated</bcf:citekey>
     <bcf:citekey order="3">karpicke2008critical</bcf:citekey>
+    <bcf:citekey order="4">butler2010repeated</bcf:citekey>
+    <bcf:citekey order="4">pyc2012test</bcf:citekey>
+    <bcf:citekey order="4">karpicke2007repeated</bcf:citekey>
+    <bcf:citekey order="4">karpicke2008critical</bcf:citekey>
+    <bcf:citekey order="5">ChanEtAl1998</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

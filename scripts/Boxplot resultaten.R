@@ -34,7 +34,7 @@ boxplot(MetMuziek_score1, MetMuziek_score2, names = test, main="Resultatenanalys
 #Data vergelijken zonder muziek
 ZonderMuziek_score1 <- c(data$score_1[data$muziek=="Nee"]) #count 101
 ZonderMuziek_score2 <- c(data$score_2[data$muziek=="Nee"]) #count 81
-boxplot(ZonderMuziek_score1, ZonderMuziek_score2, names = scores, main="Resultatenanalyse Zonder muziek", ylab="Testen", xlab="Totaal Score", horizontal = TRUE,col = "skyblue")
+boxplot(ZonderMuziek_score1, ZonderMuziek_score2, names = test, main="Resultatenanalyse Zonder muziek", ylab="Testen", xlab="Totaal Score", horizontal = TRUE,col = "skyblue")
 
 #Data vergelijken met rt
 MetRT_score1 <- c(data$score_1[data$rt=="Ja "]) #count 99
