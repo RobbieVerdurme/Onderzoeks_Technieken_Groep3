@@ -1,23 +1,25 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {dutch}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Inleiding}{1}{section.1}
+\contentsline {section}{\numberline {1}Inleiding}{1}{section.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Overzicht literatuur}{1}{section.2}
+\contentsline {section}{\numberline {2}Overzicht literatuur}{1}{section.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Methodologie}{1}{section.3}
+\contentsline {section}{\numberline {3}Methodologie}{1}{section.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Experimenten}{1}{section.4}
+\contentsline {section}{\numberline {4}Experimenten}{1}{section.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}verwachtingen}{1}{section.5}
+\contentsline {section}{\numberline {5}verwachtingen}{2}{section.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Analyse resultaten}{2}{section.6}
+\contentsline {section}{\numberline {6}Analyse resultaten}{2}{section.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Retrieval Practice}{2}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.1}Retrieval Practice}{2}{subsection.6.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}Muziek}{2}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.2}Muziek}{2}{subsection.6.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Retieval Practice met Muziek}{2}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.3}Retieval Practice met Muziek}{2}{subsection.6.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Conclusie}{2}{section.7}
+\contentsline {section}{\numberline {7}Conclusie}{2}{section.7}% 
 \contentsfinish 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Referenties}{3}{section*.1}% 
