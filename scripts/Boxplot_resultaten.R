@@ -37,8 +37,8 @@ ZonderMuziek_score2 <- c(data$score_2[data$muziek=="Nee"]) #count 81
 boxplot(ZonderMuziek_score1, ZonderMuziek_score2, names = test, main="Resultatenanalyse Zonder muziek", ylab="Testen", ylim = c(0,25), xlab="Totaal Score", horizontal = TRUE,col = "skyblue")
 
 #Data vergelijken met rt
-MetRT_score1 <- c(data$score_1[data$rt=="Ja "]) #count 99
-MetRT_score2 <- c(data$score_2[data$rt=="Ja "]) #count 90
+MetRT_score1 <- c(data$score_1[data$rt=="Ja"]) #count 99
+MetRT_score2 <- c(data$score_2[data$rt=="Ja"]) #count 90
 
 boxplot(MetRT_score1, MetRT_score2, names = test, main="Resultatenanalyse met Retrieval Practice", ylab="Testen", ylim = c(0,25), xlab="Totaal Score", horizontal = TRUE,col = "skyblue")
 

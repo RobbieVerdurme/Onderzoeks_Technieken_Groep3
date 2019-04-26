@@ -29,7 +29,6 @@ MetRT_score1_zonderNA <- na.omit(c(data$score_1[data$rt=="Ja "]))
 MetRT_score2_zonderNA <- na.omit(c(data$score_2[data$rt=="Ja "])) 
 
 
-
 #Data vergelijken zonder rt
 ZonderRT_score1_zonderNA <- na.omit(c(data$score_1[data$rt=="Nee"])) 
 ZonderRT_score2_zonderNA <- na.omit(c(data$score_2[data$rt=="Nee"]))
@@ -52,5 +51,18 @@ tabel.table <- as.table(tabel)
 gemiddelde1 <- mean(ZonderMuziek_score1_zonderNA)
 gemiddelde2 <- mean(MetMuziek_score1_zonderNA)
 effectgrootte <- (gemiddelde2-gemiddelde1)/sd(ZonderMuziek_score1_zonderNA)
+
+#Data standaardafwijking RetrievalPractice Met muziek
+#score 1
+sd(na.omit(data$score_1[data$rt=="Ja "][data$muziek=="Nee"]))
+sd(na.omit(data$score_1[data$rt=="Ja "][data$muziek=="Ja"]))
+sd(na.omit(data$score_1[data$rt=="Nee"][data$muziek=="Nee"]))
+sd(na.omit(data$score_2[data$rt=="Nee"][data$muziek=="Ja"]))
+
+#score 2
+sd(na.omit(data$score_2[data$rt=="Ja "][data$muziek=="Nee"]))
+sd(na.omit(data$score_2[data$rt=="Ja "][data$muziek=="Ja"]))
+sd(na.omit(data$score_2[data$rt=="Nee"][data$muziek=="Nee"]))
+sd(na.omit(data$score_2[data$rt=="Nee"][data$muziek=="Ja"]))
 
 
