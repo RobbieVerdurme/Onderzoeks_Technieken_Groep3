@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.14)  27 APR 2019 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.14)  2 MAY 2019 20:56
 entering extended mode
 **./ozt_2018_2019_Groep3_WimDeBryn.tex
 (ozt_2018_2019_Groep3_WimDeBryn.tex
@@ -1108,21 +1108,21 @@ File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 (ozt_2018_2019_Groep3_WimDeBryn.aux)
 \openout1 = `ozt_2018_2019_Groep3_WimDeBryn.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 71.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -1188,7 +1188,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 71.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1198,9 +1198,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count337
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
 
 (ozt_2018_2019_Groep3_WimDeBryn.out) (ozt_2018_2019_Groep3_WimDeBryn.out)
 \@outlinefile=\write5
@@ -1210,7 +1210,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 70.
+(lastpage)             ! on input line 71.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1228,9 +1228,9 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 70.
-Package biblatex Info: Reference segment=0 on input line 70.
-LaTeX Info: Redefining \microtypecontext on input line 70.
+Package biblatex Info: Reference section=0 on input line 71.
+Package biblatex Info: Reference segment=0 on input line 71.
+LaTeX Info: Redefining \microtypecontext on input line 71.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1243,7 +1243,7 @@ Package microtype Info: No adjustment of character kerning.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+phv on input line 74.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 75.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -1253,12 +1253,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 74.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 74.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <13> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 74.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 74
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 75.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 75
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
@@ -1268,35 +1268,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 74
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 75
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 74
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 75
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 74
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 75
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 75.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1305,17 +1305,17 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 74.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 75.
 
 (ozt_2018_2019_Groep3_WimDeBryn.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
@@ -1327,36 +1327,36 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 \openout6 = `ozt_2018_2019_Groep3_WimDeBryn.toc'.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 96.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 97.
 <./img/Verwacht_RetrievalPractice.png, id=84, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_RetrievalPractice.png Graphic file (type png)
 <use ./img/Verwacht_RetrievalPractice.png>
 Package pdftex.def Info: ./img/Verwacht_RetrievalPractice.png  used on input li
-ne 116.
+ne 117.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Verwacht_ZonderRetrievalPractice.png, id=85, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_ZonderRetrievalPractice.png Graphic file (type png)
 <use ./img/Verwacht_ZonderRetrievalPractice.png>
 Package pdftex.def Info: ./img/Verwacht_ZonderRetrievalPractice.png  used on in
-put line 117.
+put line 118.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Verwacht_RT_Score1.png, id=86, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_RT_Score1.png Graphic file (type png)
 <use ./img/Verwacht_RT_Score1.png>
-Package pdftex.def Info: ./img/Verwacht_RT_Score1.png  used on input line 119.
+Package pdftex.def Info: ./img/Verwacht_RT_Score1.png  used on input line 120.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Verwacht_RT_Score2.png, id=87, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_RT_Score2.png Graphic file (type png)
 <use ./img/Verwacht_RT_Score2.png>
-Package pdftex.def Info: ./img/Verwacht_RT_Score2.png  used on input line 120.
+Package pdftex.def Info: ./img/Verwacht_RT_Score2.png  used on input line 121.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 
-Overfull \hbox (0.2411pt too wide) in paragraph at lines 114--121
+Overfull \hbox (0.2411pt too wide) in paragraph at lines 115--122
 [] []
  []
 
 
-Overfull \hbox (0.2411pt too wide) in paragraph at lines 114--121
+Overfull \hbox (0.2411pt too wide) in paragraph at lines 115--122
 [] [] 
  []
 
@@ -1367,16 +1367,16 @@ Overfull \hbox (0.2411pt too wide) in paragraph at lines 114--121
 <./img/Verwacht_Muziek.png, id=98, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_Muziek.png Graphic file (type png)
 <use ./img/Verwacht_Muziek.png>
-Package pdftex.def Info: ./img/Verwacht_Muziek.png  used on input line 148.
+Package pdftex.def Info: ./img/Verwacht_Muziek.png  used on input line 149.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Verwacht_ZonderMuziek.png, id=99, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_ZonderMuziek.png Graphic file (type png)
 <use ./img/Verwacht_ZonderMuziek.png>
-Package pdftex.def Info: ./img/Verwacht_ZonderMuziek.png  used on input line 14
-9.
+Package pdftex.def Info: ./img/Verwacht_ZonderMuziek.png  used on input line 15
+0.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 
-Overfull \hbox (0.2411pt too wide) in paragraph at lines 146--150
+Overfull \hbox (0.2411pt too wide) in paragraph at lines 147--151
 [] [] 
  []
 
@@ -1384,16 +1384,16 @@ Overfull \hbox (0.2411pt too wide) in paragraph at lines 146--150
 File: ./img/Verwacht_Muziek_Score1.png Graphic file (type png)
 <use ./img/Verwacht_Muziek_Score1.png>
 Package pdftex.def Info: ./img/Verwacht_Muziek_Score1.png  used on input line 1
-52.
+53.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Verwacht_Muziek_Score2.png, id=101, 602.25pt x 451.6875pt>
 File: ./img/Verwacht_Muziek_Score2.png Graphic file (type png)
 <use ./img/Verwacht_Muziek_Score2.png>
 Package pdftex.def Info: ./img/Verwacht_Muziek_Score2.png  used on input line 1
-53.
+54.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 
-Overfull \hbox (15.2411pt too wide) in paragraph at lines 152--154
+Overfull \hbox (15.2411pt too wide) in paragraph at lines 153--155
 [][] [] 
  []
 
@@ -1404,48 +1404,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ./img/Verwacht_MuziekRT_Score1.png Graphic file (type png)
 <use ./img/Verwacht_MuziekRT_Score1.png>
 Package pdftex.def Info: ./img/Verwacht_MuziekRT_Score1.png  used on input line
- 181.
+ 182.
 (pdftex.def)             Requested size: 250.93842pt x 178.38704pt.
 <./img/Verwacht_MuziekRT_Score2.png, id=103, 1588.43437pt x 1129.21875pt>
 File: ./img/Verwacht_MuziekRT_Score2.png Graphic file (type png)
 <use ./img/Verwacht_MuziekRT_Score2.png>
 Package pdftex.def Info: ./img/Verwacht_MuziekRT_Score2.png  used on input line
- 182.
+ 183.
 (pdftex.def)             Requested size: 250.93842pt x 178.38704pt.
 
-Underfull \hbox (badness 2538) in paragraph at lines 190--190
+Underfull \hbox (badness 2538) in paragraph at lines 191--191
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 194--194
+Underfull \hbox (badness 2538) in paragraph at lines 195--195
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 
-Overfull \hbox (8.37862pt too wide) in paragraph at lines 179--199
+Overfull \hbox (119.08319pt too wide) in paragraph at lines 180--200
+\T1/ptm/m/n/10 (-20) val prac-tice stu-die me-thode. []
+ []
+
+
+Overfull \hbox (8.37862pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (8.37862pt too wide) in paragraph at lines 179--199
-[]
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 207--207
+Underfull \hbox (badness 2538) in paragraph at lines 208--208
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 211--211
+Underfull \hbox (badness 2538) in paragraph at lines 212--212
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 <img/HOGENT_Logo_Pos_rgb.png, id=105, 3503.0875pt x 1975.38pt>
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type png)
 <use img/HOGENT_Logo_Pos_rgb.png>
-Package pdftex.def Info: img/HOGENT_Logo_Pos_rgb.png  used on input line 218.
+Package pdftex.def Info: img/HOGENT_Logo_Pos_rgb.png  used on input line 219.
 (pdftex.def)             Requested size: 55.48393pt x 31.2982pt.
 [2 <./img/Verwacht_RetrievalPractice.png> <./img/Verwacht_ZonderRetrievalPracti
 ce.png> <./img/Verwacht_RT_Score1.png> <./img/Verwacht_RT_Score2.png> <./img/Ve
@@ -1456,65 +1456,65 @@ re1.png> <./img/Verwacht_Muziek_Score2.png> <./img/Verwacht_MuziekRT_Score1.png
 File: ./img/Rplot_MetRetrievalPractice.png Graphic file (type png)
 <use ./img/Rplot_MetRetrievalPractice.png>
 Package pdftex.def Info: ./img/Rplot_MetRetrievalPractice.png  used on input li
-ne 222.
+ne 223.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Rplot_ZonderRetrievalPractice.png, id=132, 602.25pt x 451.6875pt>
 File: ./img/Rplot_ZonderRetrievalPractice.png Graphic file (type png)
 <use ./img/Rplot_ZonderRetrievalPractice.png>
 Package pdftex.def Info: ./img/Rplot_ZonderRetrievalPractice.png  used on input
- line 223.
+ line 224.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Rplot_RetrievalPractice_Score1.png, id=133, 602.25pt x 451.6875pt>
 File: ./img/Rplot_RetrievalPractice_Score1.png Graphic file (type png)
 <use ./img/Rplot_RetrievalPractice_Score1.png>
 Package pdftex.def Info: ./img/Rplot_RetrievalPractice_Score1.png  used on inpu
-t line 224.
+t line 225.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Rplot_RetrievalPractice_Score2.png, id=134, 602.25pt x 451.6875pt>
 File: ./img/Rplot_RetrievalPractice_Score2.png Graphic file (type png)
 <use ./img/Rplot_RetrievalPractice_Score2.png>
 Package pdftex.def Info: ./img/Rplot_RetrievalPractice_Score2.png  used on inpu
-t line 225.
+t line 226.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 
-Overfull \hbox (15.2411pt too wide) in paragraph at lines 222--226
+Overfull \hbox (15.2411pt too wide) in paragraph at lines 223--227
 [][] []
  []
 
 
-Overfull \hbox (0.2411pt too wide) in paragraph at lines 222--226
+Overfull \hbox (0.2411pt too wide) in paragraph at lines 223--227
 [] [] 
  []
 
 <./img/Rplot_MetMuziek.png, id=135, 602.25pt x 451.6875pt>
 File: ./img/Rplot_MetMuziek.png Graphic file (type png)
 <use ./img/Rplot_MetMuziek.png>
-Package pdftex.def Info: ./img/Rplot_MetMuziek.png  used on input line 256.
+Package pdftex.def Info: ./img/Rplot_MetMuziek.png  used on input line 257.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Rplot_ZonderMuziek.png, id=136, 602.25pt x 451.6875pt>
 File: ./img/Rplot_ZonderMuziek.png Graphic file (type png)
 <use ./img/Rplot_ZonderMuziek.png>
-Package pdftex.def Info: ./img/Rplot_ZonderMuziek.png  used on input line 257.
+Package pdftex.def Info: ./img/Rplot_ZonderMuziek.png  used on input line 258.
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Rplot_Muziek_Score1.png, id=137, 602.25pt x 451.6875pt>
 File: ./img/Rplot_Muziek_Score1.png Graphic file (type png)
 <use ./img/Rplot_Muziek_Score1.png>
-Package pdftex.def Info: ./img/Rplot_Muziek_Score1.png  used on input line 258.
+Package pdftex.def Info: ./img/Rplot_Muziek_Score1.png  used on input line 259.
 
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 <./img/Rplot_Muziek_Score2.png, id=138, 602.25pt x 451.6875pt>
 File: ./img/Rplot_Muziek_Score2.png Graphic file (type png)
 <use ./img/Rplot_Muziek_Score2.png>
-Package pdftex.def Info: ./img/Rplot_Muziek_Score2.png  used on input line 259.
+Package pdftex.def Info: ./img/Rplot_Muziek_Score2.png  used on input line 260.
 
 (pdftex.def)             Requested size: 120.45044pt x 90.33589pt.
 
-Overfull \hbox (0.2411pt too wide) in paragraph at lines 256--260
+Overfull \hbox (0.2411pt too wide) in paragraph at lines 257--261
 [] []
  []
 
 
-Overfull \hbox (0.2411pt too wide) in paragraph at lines 256--260
+Overfull \hbox (0.2411pt too wide) in paragraph at lines 257--261
 [] [] 
  []
 
@@ -1522,41 +1522,41 @@ Overfull \hbox (0.2411pt too wide) in paragraph at lines 256--260
 File: ./img/Final_boxplots_Score1.png Graphic file (type png)
 <use ./img/Final_boxplots_Score1.png>
 Package pdftex.def Info: ./img/Final_boxplots_Score1.png  used on input line 29
-0.
+1.
 (pdftex.def)             Requested size: 250.93842pt x 156.83641pt.
 <./img/Final_boxplots_Score2.png, id=140, 818.63362pt x 511.64601pt>
 File: ./img/Final_boxplots_Score2.png Graphic file (type png)
 <use ./img/Final_boxplots_Score2.png>
 Package pdftex.def Info: ./img/Final_boxplots_Score2.png  used on input line 29
-1.
+2.
 (pdftex.def)             Requested size: 250.93842pt x 156.83641pt.
 
-Overfull \hbox (8.37862pt too wide) in paragraph at lines 290--292
+Overfull \hbox (8.37862pt too wide) in paragraph at lines 291--293
 []
  []
 
 
-Overfull \hbox (8.37862pt too wide) in paragraph at lines 290--292
+Overfull \hbox (8.37862pt too wide) in paragraph at lines 291--293
 [] 
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 300--300
+Underfull \hbox (badness 2538) in paragraph at lines 301--301
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 304--304
+Underfull \hbox (badness 2538) in paragraph at lines 305--305
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 317--317
+Underfull \hbox (badness 2538) in paragraph at lines 318--318
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 321--321
+Underfull \hbox (badness 2538) in paragraph at lines 322--322
 []\T1/ptm/m/n/10 (+20) Met Re-trie-val Prac-tice
  []
 
@@ -1594,11 +1594,11 @@ l'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
  ) 
 Here is how much of TeX's memory you used:
- 19468 strings out of 493303
- 320285 string characters out of 3138844
- 869751 words of memory out of 3000000
+ 19464 strings out of 493303
+ 320261 string characters out of 3138844
+ 869754 words of memory out of 3000000
  22515 multiletter control sequences out of 15000+200000
- 78270 words of font info for 214 fonts, out of 3000000 for 9000
+ 78087 words of font info for 211 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,15n,62p,938b,3825s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
@@ -1606,7 +1606,7 @@ KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
 es/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ozt_2018_2019_Groep3_WimDeBryn.pdf (4 pages, 359031 bytes).
+Output written on ozt_2018_2019_Groep3_WimDeBryn.pdf (4 pages, 359277 bytes).
 PDF statistics:
  183 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
